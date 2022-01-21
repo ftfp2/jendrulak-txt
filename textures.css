@@ -1,0 +1,31 @@
+.main-footer{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-image: url(https://www.color-hex.com/palettes/110470.png);
+    border: 2px rgb(0, 0, 0) solid;
+    height: 730px;
+    align-items: center;
+}
+
+img{
+    width: 30%;
+    border-radius: 10px;
+}
+
+.main-footer h1{
+    position: relative;
+    bottom: 150px;
+    color: rgb(172, 0, 135);
+    font-size: 100px;
+}
+
+.first-txt{
+    margin-left: 625px;
+    margin-top: 150px;
+}
+
+h1{
+    color: rgb(0, 169, 20);
+    font-size: 40px;
+}
